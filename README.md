@@ -6,7 +6,7 @@ the challenge for this week was to focus on refactoring the code for accessibili
 
 ## Screenshot
 
-<img src="images/Screenshot 2022-09-01 125335">
+<img src="[images/Screenshot 2022-09-01 125335](https://github.com/Gareth0201/Module-1-Challenge/blob/main/images/Screenshot%202022-09-01%20125335.jpg)">
 <img src="images/Screenshot 2022-09-01 125355">
 
 
